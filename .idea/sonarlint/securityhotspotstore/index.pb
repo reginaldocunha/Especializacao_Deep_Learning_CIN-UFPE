@@ -1,0 +1,13 @@
+
+
+OProgramação para Deep Learning/Laboratório_2_Especialização_CIn_UFPE.ipynb,e/e/ee9efdc36f6f3eee4e0b75181547529b5fba8b40
+
+OProgramação para Deep Learning/Laboratório_3_Especialização_CIn_UFPE.ipynb,4/1/4188a84eeca30fa83d291f63af5ab14ad1cfb265
+
+OProgramação para Deep Learning/Laboratório_4_Especialização_CIn_UFPE.ipynb,a/8/a80e70eb9a3a4cfa8349abb75edf7d9c41e7db45
+
+OProgramação para Deep Learning/Laboratório_5_Especialização_CIn_UFPE.ipynb,6/5/65e56f203251020676b8c86aecb7bb05c8d5eb85
+~
+NProgramação para Deep Learning/Comentarios_Exemplos_Sala_30_abril_2022.ipynb,2/5/25e687e8d5322d0c93c735ad125818ce5e6b4dc8
+y
+IProgramação para Deep Learning/Filtrando_bases_de_dados_tabulares.ipynb,4/8/48b588cb5640e74b417994c7786158f67e7036c7
