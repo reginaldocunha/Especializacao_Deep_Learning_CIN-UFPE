@@ -1,11 +1,0 @@
-
-zpython:S1177"WRename this local variable "grad_L" to match the regular expression ^[_a-z][a-z0-9_]*$.(†õ´‘øÿÿÿÿ8øü–¢İ1
-cpython:S6711c"DUse a "numpy.random.Generator" here instead of this legacy function.(ûê”8Œò™¢İ1
-cpython:S6711d"DUse a "numpy.random.Generator" here instead of this legacy function.(ÃØò8Œò™¢İ1
-hpython:S6711e"DUse a "numpy.random.Generator" here instead of this legacy function.(Ëô¬’ıÿÿÿÿ8Œò™¢İ1
-cpython:S6711f"DUse a "numpy.random.Generator" here instead of this legacy function.(‡¡¸»8Œò™¢İ1
-hpython:S6711g"DUse a "numpy.random.Generator" here instead of this legacy function.(ÇœÿÈıÿÿÿÿ8Œò™¢İ1
-cpython:S6711h"DUse a "numpy.random.Generator" here instead of this legacy function.(÷Ô¬İ8Œò™¢İ1
-hpython:S6711i"DUse a "numpy.random.Generator" here instead of this legacy function.(éÊ¯Èüÿÿÿÿ8ò™¢İ1
-hpython:S6711j"DUse a "numpy.random.Generator" here instead of this legacy function.(Óí›ªùÿÿÿÿ8ò™¢İ1
-cpython:S6711k"DUse a "numpy.random.Generator" here instead of this legacy function.(§‘Ñö8ò™¢İ1
